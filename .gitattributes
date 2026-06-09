@@ -1,0 +1,22 @@
+# Normalize stored line endings to LF for text; Git converts the working tree.
+* text=auto eol=lf
+
+# Diffable text formats
+*.md    text
+*.csv   text
+*.txt   text
+*.py    text
+*.json  text
+
+# Binary source documents — stored as-is, no diff/merge/eol munging (no LFS).
+*.pdf   binary
+*.xlsx  binary
+*.xlsm  binary
+*.xls   binary
+*.docx  binary
+*.doc   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.htm   binary
+*.html  binary
