@@ -240,3 +240,41 @@ the register).
   value ≈ next-year dividend ÷ (required return − growth).
 - **Gross-up credit:** Thai dividend tax credit for individuals on dividends paid from
   corporate-taxed profits; raises the effective yield for a Thai filer.
+
+---
+
+## Addendum 28-Sep-2026 — BH candidate and the dividend gross-up comparison
+
+*Appended after the June set; the June sections above are unchanged. Full workings in
+`bh_fundamental_analysis_2026-09.md`; sources in `data/BH/`. Prices 25-Sep-2026: BH ฿197.50,
+PTT ฿43.00, TLI ฿11.40; Thai 10y 2.29%.*
+
+**BH (Bumrungrad) — verdict: fair to modestly rich.** Trailing P/E 20.7× basic / 22.5× diluted,
+EV/EBITDA 14.2× on ฿10.4bn net cash, FCF yield 3.9%, ROIC ~52%. The price discounts ~3.5–4%
+perpetual FCF growth; the record is three flat revenue years (฿25.5 / 25.9 / 25.4bn), falling
+volumes (bed-days −4% in 2025 after −7.5%), Thai revenue −3%/yr, and a record 40% EBITDA margin.
+All growth is non-Thai and Gulf-led (Middle East 23% of revenue, +13.5% in 1H26) and is showing up
+as receivables (collection period 60 → 78 days). Fair band ฿145–210, central ฿170–190. Phuket
+(฿4.3bn, 120 beds, 2H27) drags 2027–29. Convertibles add 9% to the share count by Aug-2027.
+Watch items: FY26 final dividend ≥฿5 (payout thesis) and DSO back under 65 days. Candidate only.
+
+**Gross-up play — is BH a good vehicle vs PTT and TLI?** Credit eligibility from each company's
+own notices: BH ~100% (interim ฿4.00 = ฿3.998 non-BOI + ฿0.002 BOI; BOI benefit ฿10M in 2025);
+TLI ~99% (20% CIT, 19% effective; SET form split not retrieved); PTT ~63% (FY25 ฿2.30 = ฿1.45
+credit + ฿0.82 PTTEP-sourced at 50% petroleum tax, no credit + ฿0.03 BOI). A credit-eligible baht
+is worth 25% more than the withheld amount to a filer at a 10% marginal rate; a no-credit baht is
+worth nothing extra, and is penalised above the 10% bracket.
+
+| Net yield, electing, at marginal 10% / 20% | Cash yield | |
+|---|---|---|
+| TLI (฿0.60) | 5.26% | **5.91% / 5.25%** |
+| BH (฿9, full-payout case) | 4.56% | **5.13% / 4.56%** |
+| PTT (฿2.10) | 4.88% | 5.09% / 4.54% |
+| BH (฿6, old payout) | 3.04% | 3.42% / 3.04% |
+
+**Ranking: TLI first; BH second only if the doubled interim signals a ~฿9 regular run-rate,
+otherwise third.** BH's credit quality equals TLI's and beats PTT's, but its regular yield is the
+lowest of the three unless the payout stays near 100%. BH specials are fully credit-eligible
+(trailing cash ฿13 → 7.4% net at 10%), which is why FY25 looked best of the three; that is not a
+policy. PTT's PTTEP-sourced third is the only structurally no-credit line among the three and
+argues against PTT in an electing account above the 10% bracket.
