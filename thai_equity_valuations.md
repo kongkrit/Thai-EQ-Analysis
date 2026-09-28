@@ -355,8 +355,10 @@ cash to debt. Income-sleeve candidate; SSO review (Oct-2026) and 3Q26 occupancy 
 | PR9 (฿0.50) | 2.59% | 2.88% / 2.59% | never disclosed (forms, ads, AGM papers all silent); BOI cap ฿61.6M total ⇒ ≥90% credit in substance |
 
 Ranking unchanged at the top (TLI, then BH if the ฿9 run-rate holds, then PTT); CHG is the only
-peer that belongs in the gross-up sleeve, as a filler behind BH. BCH and BDMS are the two names
-whose credit share will erode as BOI-promoted hospitals mature. Full mechanics in
+peer that belongs in the gross-up sleeve, as a filler behind BH. BCH is excluded regardless of
+its clean credit — highest P/E on the lowest return on capital, −34% five-year total return, a
+family paying itself specials while net cash turns to debt to fund the sector's largest
+expansion. BDMS's credit share will erode as BOI-promoted hospitals mature. Full mechanics in
 `bh_fundamental_analysis_2026-09.md`.
 
 ---
@@ -400,7 +402,10 @@ growth half unproven; PTT ~6–7%.
    costs shrinking earnings, 54% occupancy, SSO risk, 2027 start-up losses); BH is the best
    business but a hold at ฿197 and a buy under ~฿175 (no dividend policy by management's own
    statement; Gulf receivable to check in Nov-2026); BDMS the safest and the lowest expected
-   return; BCH no.
+   return. BCH is excluded, not merely last: the highest P/E on the lowest return on capital, a
+   five-year total return of −34%, and a family paying itself specials while net cash turns to
+   debt to fund the largest expansion in the sector — the IR-confirmed clean tax credit does
+   not change this.
 
 **Open items that could move this:** PR9 dividend tax-source reply from IR (asked 28-Sep-2026;
 BCH replied the same day — all interims 20%-taxed); SSO rate review (24-Oct-2026); BH 3Q26 receivables ageing (Nov-2026);
