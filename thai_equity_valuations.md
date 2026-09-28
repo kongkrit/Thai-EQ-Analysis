@@ -350,7 +350,7 @@ cash to debt. Income-sleeve candidate; SSO review (Oct-2026) and 3Q26 occupancy 
 | BH (฿9 case) | 4.56% | 5.13% / 4.56% | ~100% credit (stated) |
 | PTT (฿2.10) | 4.88% | 5.09% / 4.54% | 63% credit, 36% structurally no-credit |
 | CHG (฿0.07) | 4.43% | 4.98% / 4.43% | 100% credit, stated for every final FY22–FY25 and the FY24/FY26 interims; no BOI |
-| BCH (฿0.45) | 3.95% | 4.44% / 3.95% | 100% credit FY25 (AGM minutes); interim forms never state a source; BOI certificates held, EEC Rayong coming |
+| BCH (฿0.45) | 3.95% | 4.44% / 3.95% | 100% credit FY24–FY26 incl. the FY26 special (AGM minutes + IR email 28-Sep-2026); BOI certificates held, EEC Rayong coming |
 | BDMS (฿0.75) | 3.71% | 4.18% / 3.71% | 95% credit FY25; BOI slice ฿0.02–0.05 in the FY22, FY24, FY25 finals, interims all non-BOI; BOI share to grow (21% of revenue promoted) |
 | PR9 (฿0.50) | 2.59% | 2.88% / 2.59% | never disclosed (forms, ads, AGM papers all silent); BOI cap ฿61.6M total ⇒ ≥90% credit in substance |
 
@@ -373,7 +373,7 @@ to 25-Sep. Decision support, not a decision.*
 | PTT | 43.00 | 9.9 | 4.9% | 5.1 / 4.5 | 63% | ROE ~10% | n/a | n/a | mkt cap 12–33% above parts (listed stakes ฿747bn at 25-Sep + June gas/trading values); was 5–15% in June |
 | BH | 197.50 | 20.7 | 2.5–3.0% (4.6% at ฿9) | 3.4 / 3.0 (5.1 / 4.6) | ~100% | ROIC ~52% | 0.72 | +57% | fair to modestly rich |
 | BDMS | 20.20 | 21.0 | 3.7% | 4.2 / 3.7 | 95% | ROIC ~14% | 0.57 | +3% | fair, upper half |
-| BCH | 11.40 | 23.4 | 3.9% | 4.4 / 4.0 | FY25 100% | ROIC ~11% | 0.79 | −34% | modestly rich |
+| BCH | 11.40 | 23.4 | 3.9% | 4.4 / 4.0 | 100% (IR-confirmed) | ROIC ~11% | 0.79 | −34% | modestly rich |
 | PR9 | 19.30 | 18.8 | 2.6% | 2.9 / 2.6 | undisclosed, ≥90% in substance | ROIC ~25% | 0.48 | +105% | fair to modestly cheap |
 | CHG | 1.58 | 17.9 | 4.4% | 5.0 / 4.4 | 100% | ROIC ~14% | 1.08 | −48% | fair, lower half |
 
@@ -402,6 +402,6 @@ growth half unproven; PTT ~6–7%.
    statement; Gulf receivable to check in Nov-2026); BDMS the safest and the lowest expected
    return; BCH no.
 
-**Open items that could move this:** BCH FY26-interim and PR9 dividend tax-source replies from
-IR (asked 28-Sep-2026); SSO rate review (24-Oct-2026); BH 3Q26 receivables ageing (Nov-2026);
+**Open items that could move this:** PR9 dividend tax-source reply from IR (asked 28-Sep-2026;
+BCH replied the same day — all interims 20%-taxed); SSO rate review (24-Oct-2026); BH 3Q26 receivables ageing (Nov-2026);
 a refresh of PTT's unlisted-business earnings before acting on the PTT source.

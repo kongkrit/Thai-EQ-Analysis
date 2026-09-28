@@ -136,11 +136,13 @@ unproven half. No buyback; no treasury shares; no convertibles.
 
 ## Dividend-tax gross-up: where BCH sits
 
-**Verdict: credit-clean for FY25 — the AGM minutes state that both the ฿0.15 interim and the ฿0.30
-final were paid from profit taxed at 20% — but the FY26 interim notice says only "operating period
-1H26 and retained earnings" with no source split, and BCH holds BOI promotion certificates on
-hospital operations (statements note 20) with the Rayong project expected to carry EEC tax
-incentives. Expect a growing BOI-exempt (no-credit, no-WHT) portion from 2028.** On regular yield
+**Verdict: credit-clean. The AGM minutes state that the FY25 ฿0.15 interim and ฿0.30 final were
+paid from profit taxed at 20%, and BCH investor relations confirmed in writing on 28-Sep-2026
+that the Sep-2024 (฿0.12), Sep-2025 (฿0.15) and Sep-2026 (฿0.15 + ฿0.20 special) interims were
+all paid from profit taxed at 20% (`data/BCH/BCH_IR_reply_dividend_tax_source_20260928.md`).
+BCH holds BOI promotion certificates on hospital operations (statements note 20) and the Rayong
+project is expected to carry EEC tax incentives, so expect a BOI-exempt (no-credit, no-WHT)
+portion to appear from 2028; none has so far.** On regular yield
 it ranks last of the six names compared.
 
 | Prices 25-Sep-2026 | Dividend basis | Cash yield | Net yield electing, marginal 10% / 20% / 25% | Net yield keeping WHT |
@@ -150,11 +152,13 @@ it ranks last of the six names compared.
 | PTT (฿43.00) | FY25 regular ฿2.10 (63% credit) | 4.88% | 5.09% / 4.54% / 4.26% | 4.40% |
 | CHG (฿1.58) | FY25 ฿0.07 | 4.43% | 4.98% / 4.43% / 4.15% | 3.99% |
 | **BCH (฿11.40)** | FY25 regular ฿0.45 | 3.95% | **4.44% / 3.95% / 3.70%** | 3.55% |
-| BCH | trailing 12m cash incl. special ฿0.65 | 5.70% | 6.41% / 5.70% / 5.35% | 5.13% |
+| BCH | trailing 12m cash incl. special ฿0.65 (all 20%-taxed, IR-confirmed) | 5.70% | 6.41% / 5.70% / 5.35% | 5.13% |
 
-Sizing rule: not a gross-up vehicle on the regular dividend; the specials are credit-eligible
-while sourced from 20%-taxed retained earnings, which makes BCH an opportunistic rather than a
-core holding in an electing account.
+Sizing rule: excluded. A clean tax credit does not rescue the security underneath it: the
+highest P/E in the sector on the lowest return on capital, a five-year total return of −34%,
+and a family paying itself specials while net cash turns to debt to fund the largest expansion
+in the sector. BCH does not enter the gross-up sleeve or the diversification shortlist at any
+price inside the current band.
 
 *Sources: BCH AGM 2026 minutes agenda 4; interim notice 14-Aug-2026; FY25 tax note 22 and BOI note
 20 (data/BCH/); other names as in `bh_fundamental_analysis_2026-09.md` and
@@ -253,10 +257,8 @@ is broker-sourced. The July-2026 recovery data point is management's, unaudited.
 
 **Documents wanted and not obtainable:** LSEG consensus (connector unauthorised); PDF financial
 statements (BCH does not publish them — only SET e-filing XLSX/DOCX, archived); the SET
-major-shareholders, rights-benefits and company-highlights pages (403 / blank); the tax source of the FY26 interim (฿0.15 + ฿0.20 special): the SET form, the 13-Aug board
-letter and the IR announcement list carry no split, and the Aug-2024 and Aug-2025 interim forms
-(now archived) are equally silent — only the AGM minutes have ever stated it, so the FY26 interim
-stays unconfirmed until the 2027 AGM papers; numeric 2026 guidance (none given; only qualitative 2H26 and
+major-shareholders, rights-benefits and company-highlights pages (403 / blank); nothing further on dividend source (the FY24–FY26 interims were confirmed by IR email on
+28-Sep-2026 after the SET forms proved silent); numeric 2026 guidance (none given; only qualitative 2H26 and
 the 2028 JUMP+ target); the SSO's 2026 base capitation and high-cost rate decisions (only the
 Dec-2024 decision for 2025, the Feb-2026 gazette on thrombectomy/cardiac rates and the Apr-2026
 medical-board minutes); settrade IAA consensus (404).

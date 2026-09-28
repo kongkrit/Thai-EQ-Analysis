@@ -87,6 +87,8 @@ LFS); the two largest are `ptt-one-report-2025-en.pdf` (~68 MB) and
   `chg-dividend-resolution-2023*/2024*.pdf`, via investor.chularat.com set-announcements
   tracker links); BCH interim SET forms Aug-2024 (`data/BCH/bch-interim-dividend-notice-20240814.pdf`).
   PR9 Thai dividend advertisements (IR viewer ids 7–12) were read and carry no tax source; not archived.
+  `data/BCH/BCH_IR_reply_dividend_tax_source_20260928.md`: BCH IR's written confirmation that the
+  Sep-2024, Sep-2025 and Sep-2026 (incl. special) interims were paid from 20%-taxed profit.
 - **Dividend-source notices (for the Section 47 bis credit split):** `data/BH/bh-interim-dividend-notice-20260814.pdf`,
   `data/BH/bh-dividend-resolution-20260219.pdf`, `data/PTT/ptt-agm2026-and-2025-dividend-notice-20260224.pdf`,
   `data/PTT/ptt-interim-dividend-notice-20250918.pdf`, `data/PTT/ptt-interim-dividend-notice-20240815.pdf`,
