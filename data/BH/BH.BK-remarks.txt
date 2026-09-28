@@ -1,0 +1,2 @@
+2023-08-31 Open 256.0 High 257.0 Low 255.0 Close 259.0: Close outside range
+2023-09-29 Open 270.0 High 272.0 Low 269.0 Close 268.0: Close outside range

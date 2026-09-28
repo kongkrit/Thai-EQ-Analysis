@@ -278,3 +278,83 @@ lowest of the three unless the payout stays near 100%. BH specials are fully cre
 (trailing cash ฿13 → 7.4% net at 10%), which is why FY25 looked best of the three; that is not a
 policy. PTT's PTTEP-sourced third is the only structurally no-credit line among the three and
 argues against PTT in an electing account above the 10% bracket.
+
+---
+
+## Addendum 28-Sep-2026 (2) — BH revisit and the four hospital peers
+
+*Appended the same day as the BH addendum. Full workings in `bdms_`, `bch_`, `pr9_`,
+`chg_fundamental_analysis_2026-09.md`; sources in `data/BDMS/`, `data/BCH/`, `data/PR9/`,
+`data/CHG/`. Prices 25-Sep-2026; Thai 10y 2.29% (28-Sep). No consensus used in any fair band
+(LSEG connector unauthorised); free sell-side numbers appear only where labelled.*
+
+**Second pass (evening, all five notes):** SET five-year tables, price/dividend histories to
+28-Sep-2026 and the dividend-source notices were added; no verdict or fair band changed.
+Five-year total returns with dividends reinvested: PR9 +105%, BH +57%, BDMS +3%, BCH −34%,
+CHG −48%, against SET TRI +19% (and +31% in the past year alone) — the sector has been a de-rating story since 2022 (P/E BDMS 38× → 21×, BCH 45× (2023)
+→ 23×, CHG 33× (2023) → 18×, BH 42× → 21×), and only PR9 earned its return through profit growth. The hospital sector index (HELTH) itself is −35% over three years and −19% over five; BH, BDMS and PR9 beat it, BCH matched it, CHG lagged it. Weekly betas to SET TRI (3y): PR9 0.48, BDMS 0.57, BH 0.72, BCH 0.79, CHG 1.08 — three to eight times the tape betas the data vendors show.
+
+**BH revisit — verdict unchanged (fair to modestly rich, ฿145–210), one watch item promoted.**
+The Jun-26 receivables ageing note shows ฿2.6bn more than 90 days past due (41% of gross
+receivables; ฿2.0bn of it 6–12 months old) against ฿1.1bn a year earlier, with the allowance flat
+at ฿0.2bn. The 2Q26 call transcript (obtained later) says Qatar paid ฿2.1bn after the half-year,
+taking receivable days to 62, with ~฿2bn still owed — a timing peak, to be confirmed in the 3Q26
+statements. Also from the call: Q3 revenue guidance ±3%; Kuwait sized at ฿1.1bn of upside (4% of
+revenue), timing unknown; and "no dividend policy by intent" — the ฿9 run-rate is a scenario,
+not a policy. First watch item is the ageing note at 3Q26, then the FY26 final dividend.
+
+| 25-Sep-2026 | Price | P/E | EV/EBITDA (net of investments) | ROIC FY25 | FCF yield | Cash div. yield | Fair band (central) | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| BH | 197.50 | 20.7 | 14.2 | ~52% | 3.9% | 4.6% (฿9 case) | ฿145–210 (170–190) | fair to modestly rich |
+| BDMS | 20.20 | 21.0 | 12.4 | ~14% | 3.7% | 3.7% | ฿16–23 (18–21) | fair, upper half |
+| BCH | 11.40 | 23.4 | 10.7 | ~11% | 5.5% (FY25; 1H26 negative) | 3.9% | ฿9–12.5 (10–11.5) | modestly rich |
+| PR9 | 19.30 | 18.8 | 9.6 | ~25% | 3.0% (4.7% normalised) | 2.6% | ฿17.5–24 (19–22) | fair to modestly cheap |
+| CHG | 1.58 | 17.9 | 9.5 | ~14% | 6.4% | 4.4% | ฿1.35–2.10 (1.50–1.75) | fair, lower half |
+
+**The sector pattern.** All five are price/intensity businesses with falling or flat volumes:
+occupancy 2Q26 vs 2Q25 — BDMS 55% vs 61%, CHG 54% vs 61%, BH bed-days −4%, BCH cash-patient
+revenue −6%; only PR9 held its inpatient days. Every one is adding capacity into that (BH Phuket,
+BDMS ~700 beds + WellEra, BCH +49%, CHG +75%, PR9 +13% within its buildings). Gulf and Cambodian
+flows were switched off externally in 2025–26 and are the recovery narrative at BH, BDMS and BCH.
+Two of the five (BCH 37.5%, CHG 28%) run on the Social Security tariff whose rate review is due
+October 2026; that single decision is a ±10% earnings swing for both.
+
+**BDMS** — priced for ~4–4.5% growth at Ke 7.5–8% against 2–4% guidance and +1% in 1H26; quality
+(AA+, 83% float, ฿30bn international revenue) is not the question, capital allocation is: ฿11bn/yr
+capex into 55–65% occupancy, the ฿29bn WellEra residence/hotel project, and a 100% FY25 payout
+that took net cash to ฿6.3bn net debt. Receivables 6–12 months old doubled to ฿1.3bn in 1H26 —
+the BH pattern at 2% of revenue. Candidate; test at 3Q26 (revenue ≥5%, occupancy ≥63%).
+
+**BCH** — highest P/E, lowest ROIC, three flat years, 1H26 −14%; the multiple prices the largest
+bed pipeline in the sector (2,323 → ~3,450 beds by 2029) before any of it is built, while the
+family pays specials and net cash turns to debt. SSO accrued receivable +32% in six months to
+฿1.2bn with ฿2.5M of allowance (key audit matter). Not a candidate above ฿9 without an SSO rate
+restoration.
+
+**PR9** — the one operating record that beats its price: five-year revenue CAGR 15%, ROIC ~25%,
+฿2.8bn net cash (18% of market cap), no debt ever, no government tariff. 2026 is a known dip
+(D&A +14%, interest income −42%, revenue +3.4%). Discounts: single site (204 beds, ICU 77% full),
+one Qatar insurer contract ≈15% of revenue, Potjaman Damapong/Shinawatra family 39%. Growth-sleeve
+candidate; ฿17s is the entry with margin of safety.
+
+**CHG** — cheapest on every multiple, 6.4% FCF yield, 4.4% fully credit-eligible dividend held at
+฿770M for three years through falling profit; earnings −6%/yr since 2023, occupancy 54%, and a
+฿2bn expansion (Rayong 200 beds, CH3 +100, 2027) that starts with start-up losses and turns net
+cash to debt. Income-sleeve candidate; SSO review (Oct-2026) and 3Q26 occupancy are the tests.
+
+**Gross-up ranking, seven names, credit-adjusted net yield electing at marginal 10% / 20%:**
+
+| | Cash yield | Net electing 10% / 20% | Credit quality |
+|---|---|---|---|
+| TLI (฿0.60) | 5.26% | **5.91% / 5.25%** | ~99% credit (inferred from tax note) |
+| BH (฿9 case) | 4.56% | 5.13% / 4.56% | ~100% credit (stated) |
+| PTT (฿2.10) | 4.88% | 5.09% / 4.54% | 63% credit, 36% structurally no-credit |
+| CHG (฿0.07) | 4.43% | 4.98% / 4.43% | 100% credit, stated for every final FY22–FY25 and the FY24/FY26 interims; no BOI |
+| BCH (฿0.45) | 3.95% | 4.44% / 3.95% | 100% credit FY25 (AGM minutes); interim forms never state a source; BOI certificates held, EEC Rayong coming |
+| BDMS (฿0.75) | 3.71% | 4.18% / 3.71% | 95% credit FY25; BOI slice ฿0.02–0.05 in the FY22, FY24, FY25 finals, interims all non-BOI; BOI share to grow (21% of revenue promoted) |
+| PR9 (฿0.50) | 2.59% | 2.88% / 2.59% | never disclosed (forms, ads, AGM papers all silent); BOI cap ฿61.6M total ⇒ ≥90% credit in substance |
+
+Ranking unchanged at the top (TLI, then BH if the ฿9 run-rate holds, then PTT); CHG is the only
+peer that belongs in the gross-up sleeve, as a filler behind BH. BCH and BDMS are the two names
+whose credit share will erode as BOI-promoted hospitals mature. Full mechanics in
+`bh_fundamental_analysis_2026-09.md`.

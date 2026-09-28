@@ -20,3 +20,6 @@
 *.jpeg  binary
 *.htm   binary
 *.html  binary
+*.mhtml binary
+*.zip   binary
+*.xls   binary
