@@ -358,3 +358,50 @@ Ranking unchanged at the top (TLI, then BH if the ฿9 run-rate holds, then PTT)
 peer that belongs in the gross-up sleeve, as a filler behind BH. BCH and BDMS are the two names
 whose credit share will erode as BOI-promoted hospitals mature. Full mechanics in
 `bh_fundamental_analysis_2026-09.md`.
+
+---
+
+## Addendum 28-Sep-2026 (3) — diversifying from TLI / PTT into one hospital name
+
+*Prices 25-Sep-2026. Hospital side current to 28-Sep-2026 (five notes above); TLI and PTT
+fundamentals are the June-2026 set at September prices, except PTT's listed stakes, re-marked
+to 25-Sep. Decision support, not a decision.*
+
+| | Price | P/E | Cash yield | Net yield electing 10% / 20% | Credit quality | Return on capital | Beta (3y) | 5-yr TR | Verdict |
+|---|---|---|---|---|---|---|---|---|---|
+| TLI | 11.40 | 10.8 | 5.3% | 5.9 / 5.3 | ~99% | ROE ~9%; EV +9%/yr | n/a | n/a | 0.67× marked EV; cheapest on intrinsic value |
+| PTT | 43.00 | 9.9 | 4.9% | 5.1 / 4.5 | 63% | ROE ~10% | n/a | n/a | mkt cap 12–33% above parts (listed stakes ฿747bn at 25-Sep + June gas/trading values); was 5–15% in June |
+| BH | 197.50 | 20.7 | 2.5–3.0% (4.6% at ฿9) | 3.4 / 3.0 (5.1 / 4.6) | ~100% | ROIC ~52% | 0.72 | +57% | fair to modestly rich |
+| BDMS | 20.20 | 21.0 | 3.7% | 4.2 / 3.7 | 95% | ROIC ~14% | 0.57 | +3% | fair, upper half |
+| BCH | 11.40 | 23.4 | 3.9% | 4.4 / 4.0 | FY25 100% | ROIC ~11% | 0.79 | −34% | modestly rich |
+| PR9 | 19.30 | 18.8 | 2.6% | 2.9 / 2.6 | undisclosed, ≥90% in substance | ROIC ~25% | 0.48 | +105% | fair to modestly cheap |
+| CHG | 1.58 | 17.9 | 4.4% | 5.0 / 4.4 | 100% | ROIC ~14% | 1.08 | −48% | fair, lower half |
+
+Expected return at a frozen multiple (yield + sustainable growth): TLI ~10–11%; BDMS 7–8% but
+priced for more; BH 6–7.5%; PR9 6.5–7.5% plus cash optionality; CHG 6.5–7.5%; BCH ~7% with the
+growth half unproven; PTT ~6–7%.
+
+**Conclusions.**
+
+1. **Fund the hospital position from PTT, not TLI.** TLI remains the cheapest security on
+   intrinsic value with the highest expected return and the cleanest credit; the TLI glide is a
+   separate, weight-driven decision. PTT has re-rated 18% since June, ahead of its parts, and
+   carries the only structurally no-credit dividend in the set. Caveat: June's gas/trading
+   earnings are stale; if they rose with oil the premium to parts is smaller than 12–33%.
+2. **The diversifiers differ.** BCH/CHG swap oil and rates for Thai government-budget risk
+   (SSO tariffs; review Oct-2026). BH's Gulf payors are oil revenue by another route. BDMS is a
+   Thai consumer/insurance proxy. PR9 is Thai self-pay plus one Qatari insurer. PR9 and BDMS
+   have the lowest betas; CHG the highest.
+3. **The sector has de-rated for three years** (HELTH −35%; every name lagged the market over
+   one and three years). Buying is buying into that; it has stopped for BH and CHG in 2026.
+4. **Ranking for a single name:** PR9 for total return (best record, cheapest net of cash,
+   lowest beta; costs a 2.6% yield, one site, one contract, one family); CHG if the position
+   must keep the income and the election (net yield level with PTT after credit, cleaner;
+   costs shrinking earnings, 54% occupancy, SSO risk, 2027 start-up losses); BH is the best
+   business but a hold at ฿197 and a buy under ~฿175 (no dividend policy by management's own
+   statement; Gulf receivable to check in Nov-2026); BDMS the safest and the lowest expected
+   return; BCH no.
+
+**Open items that could move this:** BCH FY26-interim and PR9 dividend tax-source replies from
+IR (asked 28-Sep-2026); SSO rate review (24-Oct-2026); BH 3Q26 receivables ageing (Nov-2026);
+a refresh of PTT's unlisted-business earnings before acting on the PTT source.
